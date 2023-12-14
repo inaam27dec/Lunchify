@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "766205809210",
+    "project_id": "fir-app-57f7c",
+    "storage_bucket": "fir-app-57f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766205809210:android:d9a86c5d34bff7d5195b03",
+        "android_client_info": {
+          "package_name": "com.rolustech.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766205809210-cnpnf7akv1aejpt34cntbm2tt8hveq2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc7Az7IU76_NCC90LVqNcFELN2NNcpsTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766205809210-cnpnf7akv1aejpt34cntbm2tt8hveq2g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766205809210-najgt86b2csq0j13jl2smft31pfhorgk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rolustech.firebaseapplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766205809210:android:bc83d7ea1ff51e41195b03",
+        "android_client_info": {
+          "package_name": "com.rolustech.lunch_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766205809210-qn9sfpqi7eau4mcj7mgtifslanhntm45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rolustech.lunch_portal",
+            "certificate_hash": "ae474af392c2dadcb1a984fb815e44286e2ef8a0"
+          }
+        },
+        {
+          "client_id": "766205809210-cnpnf7akv1aejpt34cntbm2tt8hveq2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc7Az7IU76_NCC90LVqNcFELN2NNcpsTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766205809210-cnpnf7akv1aejpt34cntbm2tt8hveq2g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766205809210-najgt86b2csq0j13jl2smft31pfhorgk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rolustech.firebaseapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
